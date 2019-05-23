@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+  color: #f2bfbf;
+  background-color: #eaeaea;
+}
+
+div {
+  height: 100px;
+  width: 300px;
+  background-color: green;
+}
+
+.div1 {
+  height: 100px;
+  width: 100px;
+  float: right;
+  background-color: #75cecd;
+}
+
+.div2 {
+  height: 100px;
+  width: 100px;
+  float: left;
+  background-color: #75b6ce;
+}
+
+p.big {
+  font-size: 1.5em;
+}
+
+p.little {
+  font-size: .75em;
+}
+
+img {
+  margin-left: 30%;
+}
